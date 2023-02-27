@@ -1,0 +1,8 @@
+# Python
+https://www.python.org/
+
+https://sqlitebrowser.org/
+
+https://github.com/
+
+https://code.visualstudio.com/
