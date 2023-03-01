@@ -6,9 +6,9 @@ Relação: Python é uma linguagem de programação muito querida pelos programa
 Referência: https://sqlitebrowser.org/
 Relação: Sqlitebrowser será nossa principal ferramenta de baco de dados na matéria, ele permite ao usuário manipular banco de dados.
 
-#github
-Referência: https://github.com/
-Relação: É uma das ferramentas mais queridas dos programadores, ela atua em compartilhamento de códigos e arquivos, com o código estando no github o usuário pode acessá-lo de qualquer computador.
+#git
+Referência: https://git-scm.com/
+Relação: Git é um software local que permite aos desenvolvedores salvar snapshots de seus projetos ao longo do tempo, e vai ser ótimo para resgatar um código.
 
 #VScode
 Referência: https://code.visualstudio.com/
